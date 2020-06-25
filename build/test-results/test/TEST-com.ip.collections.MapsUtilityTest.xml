@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.MapsUtilityTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-24T15:51:17" hostname="DESKTOP-QA2NH3N" time="0.028">
+  <properties/>
+  <testcase name="test" classname="com.ip.collections.MapsUtilityTest" time="0.008"/>
+  <testcase name="testUniqueIndex" classname="com.ip.collections.MapsUtilityTest" time="0.016"/>
+  <testcase name="testUniqueIndexWithEmpty" classname="com.ip.collections.MapsUtilityTest" time="0.004"/>
+  <testcase name="testUniqueIndexWithNull" classname="com.ip.collections.MapsUtilityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.FluentIterableClassExamplesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-24T15:51:17" hostname="DESKTOP-QA2NH3N" time="0.1">
+  <properties/>
+  <testcase name="testFileter" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.02"/>
+  <testcase name="testFileterWithEmpty" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.068"/>
+  <testcase name="testFileterWithNull" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.0"/>
+  <testcase name="testTransform" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.008"/>
+  <testcase name="testTransformWithEmpty" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.0"/>
+  <testcase name="testTransformWithNull" classname="com.ip.collections.FluentIterableClassExamplesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
